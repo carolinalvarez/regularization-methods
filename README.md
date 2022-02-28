@@ -1,5 +1,4 @@
-# "Honey, I shrunk the parameters": Comparing the Prediction Performance of
-Lasso, Ridge, and Elastic Net Methods
+# "Honey, I shrunk the parameters": Comparing the Prediction Performance of Lasso, Ridge, and Elastic Net Methods
 by
 Carolina Alvarez,
 Edoardo Falchi, and
