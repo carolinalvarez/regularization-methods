@@ -1,4 +1,4 @@
-# Final Project | Research Module Econometrics & Statistics | Wintersemester 2022 | University of Bonn
+# "Honey, I shrunk the parameters"
 by
 Carolina Alvarez,
 Edoardo Falchi, and
